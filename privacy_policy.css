@@ -1,0 +1,16 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+.section{
+	margin:0 auto;
+	padding:5px;
+
+}
+h1{
+	color:magenta;
+}
+p{
+	color:limegreen;
+	font-size:21px;
+
+}

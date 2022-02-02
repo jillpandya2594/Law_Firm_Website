@@ -1,0 +1,18 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+.main{
+	background:lightblue;
+	margin:0 auto;
+}
+.heading{
+     text-align: center;
+	color: limegreen;
+	text-transform: uppercase;
+	letter-spacing:3px;
+}
+.head_para{
+	text-align: center;
+	color:limegreen;
+	font-size:20px;
+}
